@@ -108,7 +108,7 @@ section h2 {
 .social-links {
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: "2rem";
     margin-bottom: 2rem;
 }
 
